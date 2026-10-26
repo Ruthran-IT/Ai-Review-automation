@@ -1,0 +1,91 @@
+[
+  {
+    "task_id": "PY001",
+    "title": "Python Input Validation",
+    "role": "Python Developer",
+    "skill_level": "Beginner",
+    "topic": "Login Page Development",
+    "description": "Build a small login form or validation module with clear feedback for invalid inputs.",
+    "requirements": [
+      "Reject empty email and password fields.",
+      "Validate email format.",
+      "Provide clear success or failure feedback.",
+      "Include automated unit tests.",
+      "Provide instructions for running the application."
+    ],
+    "deliverables": [
+      "Source code",
+      "Unit tests",
+      "README file"
+    ],
+    "estimated_hours": 3,
+    "active": true
+  },
+  {
+    "task_id": "FS001",
+    "title": "Task Management REST API",
+    "role": "Full Stack Developer",
+    "skill_level": "Intermediate",
+    "topic": "Task Management App",
+    "description": "Build a REST API for managing tasks with validation and tests.",
+    "requirements": [
+      "Create, read, update, and delete tasks.",
+      "Validate request data.",
+      "Return appropriate HTTP status codes.",
+      "Handle errors consistently.",
+      "Include automated tests."
+    ],
+    "deliverables": [
+      "Source code",
+      "API documentation",
+      "Automated tests",
+      "README file"
+    ],
+    "estimated_hours": 6,
+    "active": true
+  },
+  {
+    "task_id": "PY002",
+    "title": "Python REST API Development",
+    "role": "Python Developer",
+    "skill_level": "Advanced",
+    "topic": "REST API Development",
+    "description": "Design and implement a maintainable REST API.",
+    "requirements": [
+      "Implement RESTful endpoints.",
+      "Validate input and handle errors.",
+      "Use an appropriate persistence layer.",
+      "Write automated tests.",
+      "Document API usage."
+    ],
+    "deliverables": [
+      "Application source code",
+      "Tests",
+      "API documentation",
+      "Setup instructions"
+    ],
+    "estimated_hours": 8,
+    "active": true
+  },
+  {
+    "task_id": "WEB001",
+    "title": "Responsive Profile Page",
+    "role": "Frontend Developer",
+    "skill_level": "Beginner",
+    "topic": "Portfolio Website",
+    "description": "Create an accessible responsive profile page.",
+    "requirements": [
+      "Use semantic HTML.",
+      "Provide responsive layout for mobile and desktop.",
+      "Include working navigation links.",
+      "Use accessible labels and alt text.",
+      "Document how to run or view the page."
+    ],
+    "deliverables": [
+      "HTML/CSS/JS source",
+      "README file"
+    ],
+    "estimated_hours": 4,
+    "active": true
+  }
+]
